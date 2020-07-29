@@ -17,8 +17,4 @@ Para pruebas unitarias correr:
 * npm run test
 
 
-Para pruebas unitarias correr:
-
-* npm run test
-
 *NOTA:* La lógica principal del programa se encuentra dentro del controlador "/multiples/controllers/multiple.js", donde solo se uso una sola sentencia "If". El archivo de pruebas unitarias esta dentro de la carpeta /test.
